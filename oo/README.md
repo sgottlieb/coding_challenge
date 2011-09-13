@@ -16,4 +16,3 @@ The constructor if the class should take a String, representing the grade, and t
   - It should ignore case, and represent itself as upper-case (e.g., Grade.new('a+').to_s should equal 'A+').
 
 ---
-

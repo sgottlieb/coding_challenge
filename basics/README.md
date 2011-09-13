@@ -1,7 +1,6 @@
 ## Basic Programming
 
-Write a method that reverses a String (without using a built-in language method).
-Ideally, do this without allocating memory for another String.
+Write a method that reverses a String (without using a built-in language method like String#reverse in Ruby).  Ideally, do this without allocating memory for another String.
 
     e.g. string_reverse("the_string") => "gnirts_eht"
 
