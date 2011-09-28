@@ -6,7 +6,7 @@ These challenges are designed to test an understanding of Object-Oriented design
 
 Write a class, in Ruby, that implements a **letter** grading system.  I.e., 'A+', 'A', 'A-', 'B+', ....
 
-The constructor if the class should take a String, representing the grade, and the class should fulfill the following requirements.
+The constructor of the class should take a String, representing the grade, and the class should fulfill the following requirements.
 
   - It should validate the string provided.
   - It should compare properly.
